@@ -3,3 +3,6 @@ easyocr
 pillow
 pandas
 requests
+opencv-python-headless
+torch
+numpy
